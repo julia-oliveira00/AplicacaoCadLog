@@ -9,6 +9,11 @@
 </head>
 
 <body>
+
+    <a href="index.php">Inicio</a>
+    <a href="cad.php">Cadastro</a>
+    <a href="log.php">Login</a>
+
 </body>
 
 </html>

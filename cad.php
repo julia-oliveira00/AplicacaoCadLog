@@ -9,6 +9,11 @@
 </head>
 
 <body>
+
+    <a href="index.php">Inicio</a>
+    <a href="cad.php">Cadastro</a>
+    <a href="log.php">Login</a>
+
     <div class="singup">
         <form class="form">
             <div>
@@ -32,6 +37,7 @@
             </div>
         </form>
     </div>
+    
 </body>
 
 </html>
