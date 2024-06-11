@@ -194,12 +194,12 @@
             <form class="form">
                 <div>
                     <input type='text' id='name' name='name' placeholder="Nome" autocomplete="on">
+                </div><br>
+                <div>
+                    <input type='text' id='email' placeholder="E-mail" autocomplete="on"><br><br>
                 </div>
                 <div>
-                    <input type='text' id='email' placeholder="E-mail" autocomplete="on"><br>
-                </div>
-                <div>
-                    <input type='password' id='password' autocomplete="on" placeholder="Senha"><br>
+                    <input type='password' id='password' autocomplete="on" placeholder="Senha"><br><br>
                 </div>
                 <div>
                     <input type='password' id='passwordconfirm' autocomplete="on" placeholder="Repetir senha"><br>
