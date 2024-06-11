@@ -193,12 +193,10 @@
         <div class="singup">
             <form class="form">
                 <div>
-                    <label for='email'>E-mail</label><br>
-                    <input type='text' id='email' placeholder="" autocomplete="on"><br>
+                    <input type='text' id='email' placeholder="E-mail" autocomplete="on"><br>
                 </div>
                 <div>
-                    <label for='password'>Senha</label><br>
-                    <input type='password' id='password' autocomplete="on"><br>
+                    <input type='password' id='password' autocomplete="on" placeholder="Senha"><br>
                 </div><br>
                 <div id="button">
                     <button onclick="">ENTRAR</button>
