@@ -13,8 +13,6 @@
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/cover/">
 
-
-
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
 
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -192,16 +190,19 @@
 
         <main class="px-3">
             <h1>Seja bem-vind@.</h1>
-            <p class="lead">Essa página é a página principal de um pequeno projeto criado para o ensino de acesso a base de dados utilizando PHP como linguagem de back-end. Acesse o repositório do projeto no</p>
+            <p class="lead">Essa página é a página principal de um pequeno projeto criado para o ensino de acesso a base
+                de dados utilizando PHP como linguagem de back-end. Acesse o repositório do projeto no</p>
             <p class="lead">
-                <a href="https://github.com/julia-oliveira00/AplicacaoCadLog" class="btn btn-lg btn-light fw-bold border-white bg-white">Github</a>
+                <a href="https://github.com/julia-oliveira00/AplicacaoCadLog"
+                    class="btn btn-lg btn-light fw-bold border-white bg-white">Github</a>
             </p>
         </main>
 
         <footer class="mt-auto text-white-50">
             <p>Template obtido no <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado por <a
                     href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
-            <p>Projeto criado por <a href="https://br.linkedin.com/in/julia-oliveira-almeida" class="text-white">@juliaoliveira</a></p>
+            <p>Projeto criado por <a href="https://br.linkedin.com/in/julia-oliveira-almeida"
+                    class="text-white">@juliaoliveira</a></p>
         </footer>
     </div>
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>

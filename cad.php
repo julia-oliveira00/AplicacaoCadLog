@@ -205,7 +205,7 @@
                     <input type='password' id='passwordconfirm' autocomplete="on" placeholder="Repetir senha"><br>
                 </div><br>
                 <p class="lead">
-                <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Salvar</a>
+                    <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Salvar</a>
                 </p>
             </form>
         </div>
@@ -214,7 +214,8 @@
         <footer class="mt-auto text-white-50">
             <p>Template obtido no <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado por <a
                     href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
-            <p>Projeto criado por <a href="https://br.linkedin.com/in/julia-oliveira-almeida" class="text-white">@juliaoliveira</a></p>
+            <p>Projeto criado por <a href="https://br.linkedin.com/in/julia-oliveira-almeida"
+                    class="text-white">@juliaoliveira</a></p>
         </footer>
     </div>
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
