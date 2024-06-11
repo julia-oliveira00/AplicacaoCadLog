@@ -194,7 +194,7 @@
             <h1>Seja bem-vind@.</h1>
             <p class="lead">Essa página é a página principal de um pequeno projeto criado para o ensino de acesso a base de dados utilizando PHP como linguagem de back-end. Acesse o repositório do projeto no</p>
             <p class="lead">
-                <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Learn more</a>
+                <a href="https://github.com/julia-oliveira00/AplicacaoCadLog" class="btn btn-lg btn-light fw-bold border-white bg-white">Github</a>
             </p>
         </main>
 
