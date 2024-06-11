@@ -198,9 +198,9 @@
                 <div>
                     <input type='password' id='password' autocomplete="on" placeholder="Senha"><br>
                 </div><br>
-                <div id="button">
-                    <button onclick="">ENTRAR</button>
-                </div>
+                <p class="lead">
+                <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Entrar</a>
+                </p>
             </form>
         </div>
 

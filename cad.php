@@ -204,9 +204,9 @@
                 <div>
                     <input type='password' id='passwordconfirm' autocomplete="on" placeholder="Repetir senha"><br>
                 </div><br>
-                <div id="button">
-                    <button onclick="">SALVAR</button>
-                </div>
+                <p class="lead">
+                <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Salvar</a>
+                </p>
             </form>
         </div>
 
