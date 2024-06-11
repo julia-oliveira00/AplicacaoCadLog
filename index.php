@@ -181,11 +181,11 @@
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
         <header class="mb-auto">
             <div>
-                <h3 class="float-md-start mb-0">Cover</h3>
+                <h3 class="float-md-start mb-0">Inicio</h3>
                 <nav class="nav nav-masthead justify-content-center float-md-end">
                     <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.php">Inicio</a>
-                    <a class="nav-link fw-bold py-1 px-0" href="cad.php">Cadastro</a>
-                    <a class="nav-link fw-bold py-1 px-0" href="log.php">Login</a>
+                    <a class="nav-link fw-bold py-1 px-0" href="cad.php">Cadastre-se</a>
+                    <a class="nav-link fw-bold py-1 px-0" href="log.php">Log in</a>
                 </nav>
             </div>
         </header>
