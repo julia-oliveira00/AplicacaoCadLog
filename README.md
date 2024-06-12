@@ -31,5 +31,4 @@ OS: Windows_NT x64 10.0.22631
 ## Fontes consultadas
 Conhecimentos adquiridos em aula
 
-## By
-@julia-oliveira00
+By @julia-oliveira00
