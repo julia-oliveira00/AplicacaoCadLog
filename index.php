@@ -175,8 +175,9 @@
         </ul>
     </div>
 
-
+    <!--container que está contendo a página-->
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        <!--topo da página, navegação do site-->
         <header class="mb-auto">
             <div>
                 <h3 class="float-md-start mb-0">Inicio</h3>
@@ -187,7 +188,7 @@
                 </nav>
             </div>
         </header>
-
+        <!--Texto principal do corpo do site-->
         <main class="px-3">
             <h1>Seja bem-vind@.</h1>
             <p class="lead">Essa página é a página principal de um pequeno projeto criado para o ensino de acesso a base
@@ -197,7 +198,7 @@
                     class="btn btn-lg btn-light fw-bold border-white bg-white">Github</a>
             </p>
         </main>
-
+        <!--rodapé da página com os seus devidos links-->
         <footer class="mt-auto text-white-50">
             <p>Template obtido no <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado por <a
                     href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
@@ -205,6 +206,7 @@
                     class="text-white">@juliaoliveira</a></p>
         </footer>
     </div>
+    <!--Não faz nada provavelmente já que não estou usando js-->
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
